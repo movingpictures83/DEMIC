@@ -1,0 +1,2 @@
+Prefix plugins/DEMIC/example
+Plugin DEMIC inputfile parameters.txt outputfile .

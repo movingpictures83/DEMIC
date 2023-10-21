@@ -1,0 +1,3 @@
+SAMdir	sortedSAM
+FASTA	/biorg/data/TARA/FASTA/
+threads	48
